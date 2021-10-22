@@ -8,11 +8,7 @@
 </h3>
 <br/>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthnaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthnaini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthnaini" alt="yashwanthnaini" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nainiyashwanth" target="blank"><img src="https://img.shields.io/twitter/follow/nainiyashwanth?logo=twitter&style=for-the-badge" alt="nainiyashwanth" /></a> </p>
 
 - 🔭 I’m currently working on **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 
@@ -25,6 +21,15 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **talktoyashwanthnaini@gmail.com**
+<br />
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthnaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthnaini" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthnaini" alt="yashwanthnaini" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/nainiyashwanth" target="blank"><img src="https://img.shields.io/twitter/follow/nainiyashwanth?logo=twitter&style=for-the-badge" alt="nainiyashwanth" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
