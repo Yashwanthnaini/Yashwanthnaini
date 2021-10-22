@@ -6,7 +6,8 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   
 </h3>
-
+<br/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthnaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthnaini" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthnaini" alt="yashwanthnaini" /></a> </p>
