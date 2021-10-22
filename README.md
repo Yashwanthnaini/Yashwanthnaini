@@ -57,5 +57,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashwanthnaini&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthnaini&theme=dark&hide_border=true" alt="yashwanthnaini" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthnaini&layout=compact&langs_count=8&theme=algolia" alt="yashwanthnaini" /></p>
 
