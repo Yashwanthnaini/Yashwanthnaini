@@ -22,7 +22,6 @@
 
 - 📫 How to reach me **talktoyashwanthnaini@gmail.com**
 <br />
-<br />
 
 
 
@@ -33,11 +32,14 @@
   <img src="https://img.shields.io/github/stars/Yashwanthnaini?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
+<br  />
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Yashwanthnaini&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Yashwanthnaini)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthnaini" alt="yashwanthnaini" /></a> </p>
 
 
-
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
