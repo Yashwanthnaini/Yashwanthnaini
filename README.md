@@ -24,6 +24,15 @@
 <br />
 <br />
 
+
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Yashwanthnaini" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Yashwanthnaini?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Yashwanthnaini?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashwanthnaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthnaini" /> .
 <a href="https://twitter.com/nainiyashwanth" target="blank"><img src="https://img.shields.io/twitter/follow/nainiyashwanth?logo=twitter&style=for-the-badge" alt="nainiyashwanth" /></a>
 </p>
