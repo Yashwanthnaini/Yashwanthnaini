@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yashwanth Naini</h1>
-<h1 align="center">
+<h1 align="center">Hi <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>, I'm Yashwanth Naini</h1>
+<h3 align="center">
   
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
+  
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthnaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthnaini" /> </p>
 
