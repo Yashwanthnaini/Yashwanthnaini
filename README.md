@@ -24,15 +24,16 @@
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthnaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthnaini" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashwanthnaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthnaini" /> </p>
+<p align="center"> <a href="https://twitter.com/nainiyashwanth" target="blank"><img src="https://img.shields.io/twitter/follow/nainiyashwanth?logo=twitter&style=for-the-badge" alt="nainiyashwanth" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthnaini" alt="yashwanthnaini" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nainiyashwanth" target="blank"><img src="https://img.shields.io/twitter/follow/nainiyashwanth?logo=twitter&style=for-the-badge" alt="nainiyashwanth" /></a> </p>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/nainiyashwanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nainiyashwanth" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/naini-yashwanth-a6a791215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naniyashwanth" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100017383833751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashwanthnaini" height="30" width="40" /></a>
