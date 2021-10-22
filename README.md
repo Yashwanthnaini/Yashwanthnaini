@@ -36,9 +36,6 @@
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Yashwanthnaini&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Yashwanthnaini)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthnaini" alt="yashwanthnaini" /></a> </p>
-
-
 <br />
 
 <h3 align="left">Connect with me:</h3>
@@ -57,5 +54,8 @@
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanthnaini&show_icons=true&locale=en" alt="yashwanthnaini" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthnaini&" alt="yashwanthnaini" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthnaini&theme=dark&hide_border=true" alt="yashwanthnaini" /></p>
 
