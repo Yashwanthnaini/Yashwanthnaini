@@ -4,6 +4,9 @@
 <h3 align="center">
   
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+    
+    
+    <img src="https://github.com/Yashwanthnaini/Yashwanthnaini/images/4205268.jpg" width="40px" />
   
 </h3>
 <br/>
