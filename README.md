@@ -1,18 +1,19 @@
+<span>
+    <h1 align="center">Hi <a target="_blank">
+        <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+        , I'm Yashwanth Naini
+    </h1>
+    <h3 align="center">
+        𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+    </h3>
+</span>
+<span>
+    <span align="left"> <img height="200em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op1.jpg"/></span>
+    <span align="left"> <img height="200em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op2.jpg"/></span>
+    <span align="left"> <img height="200em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg"/></span>
+</span>
 
-<span align="left"> <img height="200em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op1.jpg"/></span>
-<span align="left"> <img height="200em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op2.jpg"/></span>
-<span align="left"> <img height="200em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg"/></span>
-<h1 align="center">Hi <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>, I'm Yashwanth Naini</h1>
-<h3 align="center">
-  
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-    
-    
 
-  
-</h3>
 <br/>
 <br/>
 
