@@ -1,5 +1,5 @@
 
-![NainiYashwanth](https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op1.jpg)
+ <img height="180em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg"/>
 <h1 align="center">Hi <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>, I'm Yashwanth Naini</h1>
@@ -42,7 +42,7 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Yashwanthnaini&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Yashwanthnaini)
 
 <br />
-![NainiYashwanth](https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op2.jpg)
+ <img height="180em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
