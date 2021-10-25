@@ -42,7 +42,7 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Yashwanthnaini&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Yashwanthnaini)
 
 <br />
- <img height="180em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg"/>
+ <p align="center"> <img height="180em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op2.jpg"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,4 +64,4 @@
 </a>
 </p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthnaini&layout=compact&langs_count=8&theme=algolia" alt="yashwanthnaini" /></p>
- <img height="180em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg"/>
+<p align="center"> <img height="180em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg"/></p>
