@@ -1,9 +1,9 @@
 <p> </p>
-<h1 align="center">Hi <a target="_blank">
+<h1 align="center" style="color:red">Hi <a target="_blank">
 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />, I'm Yashwanth Naini</h1>
 <h3 align="center">𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!</h3>
 
-<p align="center"> <img height="400em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op1.jpg"/> </p>
+<p align="center"> <img height="auto" width="100%" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op1.jpg"/> </p>
       
 
 
