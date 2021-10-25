@@ -1,5 +1,5 @@
 
- <img height="180em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg"/>
+<span align="center"> <img height="180em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op1.jpg"/></span>
 <h1 align="center">Hi <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>, I'm Yashwanth Naini</h1>
