@@ -6,7 +6,7 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
     
     
-    <img src="https://github.com/Yashwanthnaini/Yashwanthnaini/images/4205268.jpg" width="40px" />
+   <p> <img src="https://github.com/Yashwanthnaini/Yashwanthnaini/images/4205268.jpg" width="40px" /> </p>
   
 </h3>
 <br/>
