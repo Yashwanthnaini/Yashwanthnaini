@@ -5,8 +5,7 @@
   
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
     
-![NainiYashwanth](https://github.com/Yashwanthnaini/Yashwanthnaini/master/images/4205268.jpg)
-   <p> <img src="https://github.com/Yashwanthnaini/Yashwanthnaini/images/4205268.jpg" width="40px" /> </p>
+![NainiYashwanth](https://raw.github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/4205068.jpg)
   
 </h3>
 <br/>
