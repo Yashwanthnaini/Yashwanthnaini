@@ -1,3 +1,5 @@
+
+![NainiYashwanth]("https://raw.github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/4205068.jpg")
 <h1 align="center">Hi <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>, I'm Yashwanth Naini</h1>
@@ -5,7 +7,8 @@
   
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
     
-![NainiYashwanth](https://raw.github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/4205068.jpg)
+    
+
   
 </h3>
 <br/>
