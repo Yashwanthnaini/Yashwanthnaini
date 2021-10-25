@@ -64,4 +64,4 @@
 </a>
 </p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthnaini&layout=compact&langs_count=8&theme=algolia" alt="yashwanthnaini" /></p>
-![NainiYashwanth](https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg)
+ <img height="180em" src="https://github.com/Yashwanthnaini/Yashwanthnaini/blob/main/images/images/op3.jpg"/>
